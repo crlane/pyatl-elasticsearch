@@ -11,7 +11,8 @@ def team_from_state(team, state):
     team = F.QueryFilter(Q.MatchQuery('appearances.franchise', team))
     bool_filter = F.BoolFilter()
     for filt in (state, team):
-        bool_filter.add_must(filt)
+        bool_filter.add_must(filt) #AND
+        # bool_filter.add_should() OR
     fq = Q.FilteredQuery(_all, bool_filter)
     pp(fq.serialize())
     raw_input('press enter to continue...')
@@ -24,5 +25,9 @@ def team_from_state(team, state):
                 break
         print '{} from {}'.format(common_name['name'], player['birth_place'])
 
-def only_pitchers():
-    ef = F.ExistsFilter('appearances.stats.pitching')
+def how_many_southpaws():
+    q = Q.TermQuery('throws', 'l')
+    pp(q.serialize())
+    raw_input('press enter to continue...')
+    return conn.search(q).count()
+

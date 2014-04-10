@@ -1,0 +1,627 @@
+{
+  "hofID": "",
+  "debut": "2004-04-06T00:00:00",
+  "weight": 205,
+  "playerID": "aardsda01",
+  "appearances": [
+    {
+      "league": "NL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 0,
+            "E": 0,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2004,
+            "DP": 0,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 0,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 10,
+            "HR": 1,
+            "H": 20,
+            "IBB": 0,
+            "CG": 0,
+            "L": 0,
+            "BK": 0,
+            "GF": 5,
+            "yearID": 2004,
+            "BFP": 61,
+            "ERA": 6.75,
+            "W": 1,
+            "WP": 0,
+            "R": 8,
+            "BAOpp": 0.41,
+            "HBP": 2,
+            "SHO": 0,
+            "GIDP": 0,
+            "G": 11,
+            "SV": 0,
+            "teamID": "SFN",
+            "SH": 0,
+            "SO": 5,
+            "ER": 8,
+            "SF": 0
+          }
+        ],
+        "batting": [
+          {
+            "AB": 0,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2004,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 0,
+            "SO": 0,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2004,
+      "games": 11,
+      "team": "SFN",
+      "franchise": "San Francisco Giants"
+    },
+    {
+      "league": "NL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 5,
+            "E": 0,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2006,
+            "DP": 1,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 1,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 28,
+            "HR": 9,
+            "H": 41,
+            "IBB": 0,
+            "CG": 0,
+            "L": 0,
+            "BK": 0,
+            "GF": 9,
+            "yearID": 2006,
+            "BFP": 225,
+            "ERA": 4.08,
+            "W": 3,
+            "WP": 1,
+            "R": 25,
+            "BAOpp": 0.0,
+            "HBP": 1,
+            "SHO": 0,
+            "GIDP": 0,
+            "G": 45,
+            "SV": 0,
+            "teamID": "CHN",
+            "SH": 0,
+            "SO": 49,
+            "ER": 24,
+            "SF": 0
+          }
+        ],
+        "batting": [
+          {
+            "AB": 2,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2006,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 1,
+            "SO": 0,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2006,
+      "games": 45,
+      "team": "CHN",
+      "franchise": "Chicago Cubs"
+    },
+    {
+      "league": "AL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 4,
+            "E": 1,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2007,
+            "DP": 0,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 2,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 17,
+            "HR": 4,
+            "H": 39,
+            "IBB": 3,
+            "CG": 0,
+            "L": 1,
+            "BK": 0,
+            "GF": 7,
+            "yearID": 2007,
+            "BFP": 151,
+            "ERA": 6.4,
+            "W": 2,
+            "WP": 2,
+            "R": 24,
+            "BAOpp": 0.0,
+            "HBP": 1,
+            "SHO": 0,
+            "GIDP": 0,
+            "G": 25,
+            "SV": 0,
+            "teamID": "CHA",
+            "SH": 0,
+            "SO": 36,
+            "ER": 23,
+            "SF": 0
+          }
+        ],
+        "batting": [
+          {
+            "AB": 0,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2007,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 0,
+            "SO": 0,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2007,
+      "games": 25,
+      "team": "CHA",
+      "franchise": "Chicago White Sox"
+    },
+    {
+      "league": "AL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 6,
+            "E": 0,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2008,
+            "DP": 0,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 3,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 35,
+            "HR": 4,
+            "H": 49,
+            "IBB": 2,
+            "CG": 0,
+            "L": 2,
+            "BK": 0,
+            "GF": 7,
+            "yearID": 2008,
+            "BFP": 228,
+            "ERA": 5.55,
+            "W": 4,
+            "WP": 3,
+            "R": 32,
+            "BAOpp": 0.0,
+            "HBP": 5,
+            "SHO": 0,
+            "GIDP": 0,
+            "G": 47,
+            "SV": 0,
+            "teamID": "BOS",
+            "SH": 0,
+            "SO": 49,
+            "ER": 30,
+            "SF": 0
+          }
+        ],
+        "batting": [
+          {
+            "AB": 1,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2008,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 0,
+            "SO": 1,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2008,
+      "games": 47,
+      "team": "BOS",
+      "franchise": "Boston Red Sox"
+    },
+    {
+      "league": "AL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 5,
+            "E": 0,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2009,
+            "DP": 1,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 2,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 34,
+            "HR": 4,
+            "H": 49,
+            "IBB": 3,
+            "CG": 0,
+            "L": 6,
+            "BK": 0,
+            "GF": 53,
+            "yearID": 2009,
+            "BFP": 296,
+            "ERA": 2.52,
+            "W": 3,
+            "WP": 2,
+            "R": 23,
+            "BAOpp": 0.0,
+            "HBP": 0,
+            "SHO": 0,
+            "GIDP": 0,
+            "G": 73,
+            "SV": 38,
+            "teamID": "SEA",
+            "SH": 0,
+            "SO": 80,
+            "ER": 20,
+            "SF": 0
+          }
+        ],
+        "batting": [
+          {
+            "AB": 0,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2009,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 0,
+            "SO": 0,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2009,
+      "games": 73,
+      "team": "SEA",
+      "franchise": "Seattle Mariners"
+    },
+    {
+      "league": "AL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 3,
+            "E": 1,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2010,
+            "DP": 0,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 2,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 25,
+            "HR": 5,
+            "H": 33,
+            "IBB": 5,
+            "CG": 0,
+            "L": 6,
+            "BK": 0,
+            "GF": 43,
+            "yearID": 2010,
+            "BFP": 202,
+            "ERA": 3.44,
+            "W": 0,
+            "WP": 2,
+            "R": 19,
+            "BAOpp": 0.0,
+            "HBP": 2,
+            "SHO": 0,
+            "GIDP": 0,
+            "G": 53,
+            "SV": 31,
+            "teamID": "SEA",
+            "SH": 0,
+            "SO": 49,
+            "ER": 19,
+            "SF": 0
+          }
+        ],
+        "batting": [
+          {
+            "AB": 0,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2010,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 0,
+            "SO": 0,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2010,
+      "games": 53,
+      "team": "SEA",
+      "franchise": "Seattle Mariners"
+    },
+    {
+      "league": "AL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 0,
+            "E": 0,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2012,
+            "DP": 0,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 0,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 1,
+            "HR": 1,
+            "H": 1,
+            "IBB": 0,
+            "CG": 0,
+            "L": 0,
+            "BK": 0,
+            "GF": 1,
+            "yearID": 2012,
+            "BFP": 5,
+            "ERA": 9.0,
+            "W": 0,
+            "WP": 0,
+            "R": 1,
+            "BAOpp": 0.0,
+            "HBP": 0,
+            "SHO": 0,
+            "GIDP": 0,
+            "G": 1,
+            "SV": 0,
+            "teamID": "NYA",
+            "SH": 0,
+            "SO": 1,
+            "ER": 1,
+            "SF": 0
+          }
+        ],
+        "batting": [
+          {
+            "AB": 0,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2012,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 0,
+            "SO": 0,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2012,
+      "games": 1,
+      "team": "NYA",
+      "franchise": "New York Yankees"
+    },
+    {
+      "league": "NL",
+      "stats": {
+        "fielding": [
+          {
+            "A": 5,
+            "E": 0,
+            "POS": "P",
+            "PB": 0,
+            "yearID": 2013,
+            "DP": 0,
+            "WP": 0,
+            "CS": 0,
+            "SB": 0,
+            "PO": 1,
+            "ZR": 0.0
+          }
+        ],
+        "pitching": [
+          {
+            "GS": 0,
+            "BB": 19,
+            "HR": 7,
+            "H": 39,
+            "IBB": 6,
+            "CG": 0,
+            "L": 2,
+            "BK": 1,
+            "GF": 7,
+            "yearID": 2013,
+            "BFP": 178,
+            "ERA": 4.31,
+            "W": 2,
+            "WP": 1,
+            "R": 20,
+            "BAOpp": 0.257,
+            "HBP": 4,
+            "SHO": 0,
+            "GIDP": 2,
+            "G": 43,
+            "SV": 0,
+            "teamID": "NYN",
+            "SH": 2,
+            "SO": 36,
+            "ER": 19,
+            "SF": 1
+          }
+        ],
+        "batting": [
+          {
+            "AB": 0,
+            "2B": 0,
+            "BB": 0,
+            "HR": 0,
+            "H": 0,
+            "IBB": 0,
+            "yearID": 2013,
+            "R": 0,
+            "RBI": 0,
+            "CS": 0,
+            "3B": 0,
+            "HBP": 0,
+            "GIDP": 0,
+            "SH": 0,
+            "SO": 0,
+            "SB": 0,
+            "SF": 0
+          }
+        ]
+      },
+      "season": 2013,
+      "games": 43,
+      "team": "NYN",
+      "franchise": "New York Mets"
+    }
+  ],
+  "bbrefID": "aardsda01",
+  "lahmanID": 17157,
+  "height": 75.0,
+  "bats": "R",
+  "names": [
+    {
+      "type_": "full",
+      "name": "David Allan Aardsma"
+    },
+    {
+      "type_": "common",
+      "name": "David Aardsma"
+    }
+  ],
+  "birth_place": "Denver, CO, USA",
+  "birth_date": "1981-12-27",
+  "college": "Rice",
+  "managerID": "",
+  "throws": "R"
+}
