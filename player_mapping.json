@@ -1,0 +1,24 @@
+{
+  "settings": {
+      "index" : {
+        "refresh_interval" : "-1"
+      }
+    },
+  "mappings": {
+    "player": {
+      "properties": {
+        "apperances": {
+          "properties": {
+            "stats": {}
+          }
+        },
+        "playerID": {
+          "type": "string",
+          "store": false,
+          "index": "not_anlayzed"
+        },
+        "other_field": {}
+      }
+    }
+  }
+}
