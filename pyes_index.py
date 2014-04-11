@@ -3,12 +3,10 @@ import gzip
 import json
 from pyes import ES, helpers
 from contextlib import closing
-from docopt import docopt
 
-SERVER_ADDRESS = ('http', '127.0.0.1', '9200')
 
-def load_players(doctype,index,filename, count=None, settings=None, mapping=None, drop=False):
-    conn = ES(SERVER_ADDRESS)
+
+def load_players(conn, doctype,index,filename, count=None, settings=None, mapping=None, drop=False):
     if drop:
         conn.indices.delete_index_if_exists(index)
 
@@ -33,12 +31,15 @@ def load_players(doctype,index,filename, count=None, settings=None, mapping=None
                 conn.indices.refresh(index)
 
 def main():
+    SERVER_ADDRESS = ('http', '127.0.0.1', '9200')
+    conn = ES(SERVER_ADDRESS)
     index_name = 'mlbplayers'
     document_type = 'player'
     filename = 'mlbplayerdata.json.gz'
     settings = {'index': {'refresh_interval': '-1'}}
     sb = helpers.SettingsBuilder(settings=settings)
-    load_players(document_type, index_name, filename, settings=sb, drop=True)
+    load_players(conn, document_type, index_name, filename, settings=sb, drop=True)
 
 if __name__ == '__main__':
+
     main()

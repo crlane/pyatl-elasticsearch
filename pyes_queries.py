@@ -8,7 +8,7 @@ conn = ES(('http', '127.0.0.1', '9200'))
 
 def team_from_state(team, state):
     state = F.QueryFilter(Q.MatchQuery('birth_place', state))
-    team = F.QueryFilter(Q.MatchQuery('appearances.franchise', team))
+    team = F.QueryFilter(Q.MatchQuery('appearances.franchise', team, type='phrase'))
     bool_filter = F.BoolFilter()
     for filt in (state, team):
         bool_filter.add_must(filt) #AND
